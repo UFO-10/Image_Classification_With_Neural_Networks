@@ -1,5 +1,10 @@
-# Neural Networks From Scratch
+# Image Classification with Neural Networks
 
+<p align="center">
+  <img src="images/image.png" width="750">
+</p>
+
+This project walks through building image classification models from scratch using PyTorch, starting from a simple linear classifier and progressing to deep multilayer neural networks.
 This project implements neural networks from scratch using PyTorch, starting from a simple linear classifier and progressively building deeper neural networks for image classification on the MNIST dataset.
 
 The goal of this project is to understand the mathematical and implementation details behind modern deep learning models without relying on high-level abstractions.
