@@ -1,7 +1,7 @@
 # Image Classification with Neural Networks
 
 <p align="center">
-  <img src="images/image.png" width="750">
+  <img src="images/image.png" width="350">
 </p>
 
 This project walks through building image classification models from scratch using PyTorch, starting from a simple linear classifier and progressing to deep multilayer neural networks.
